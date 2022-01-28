@@ -45,3 +45,26 @@
   color: #FFFFFF;
   margin-right: 37px;
 }
+
+.meme--container{
+  margin-top: 36px;
+}
+
+.meme--input--container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.meme--input--container > input{
+  margin-right: 12px;
+}
+
+.meme--button--container{
+  display: flex;
+  justify-content: center;
+}
+
+.meme--button{
+  margin: 0 auto;
+}
